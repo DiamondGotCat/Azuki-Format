@@ -1,7 +1,6 @@
 ![thumbnail-21-zeta-future](https://github.com/user-attachments/assets/1c5fdb56-f660-42ad-9507-88c88d24a09a)
 
-> [!IMPORTANT]
-> Main Repository: [Zeta](https://github.com/DiamondGotCat/Zeta)
+**NOTE: This is [Zeta](https://github.com/Zeta-LLM/Zeta)'s component**
 
 # Azuki-Format
 Azuki JSON Format is Custom JSON Format for LLM / Machine Learning.
