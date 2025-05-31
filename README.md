@@ -1,4 +1,4 @@
-![Zeta LLM Components Wall](https://github.com/user-attachments/assets/986dc020-de07-4dbc-9726-9236da3345d0)
+![thumbnail-21-zeta-future](https://github.com/user-attachments/assets/1c5fdb56-f660-42ad-9507-88c88d24a09a)
 
 > [!IMPORTANT]
 > Main Repository: [Zeta](https://github.com/DiamondGotCat/Zeta)
