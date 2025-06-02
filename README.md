@@ -11,7 +11,7 @@ Azuki JSON Format is Custom JSON Format for LLM / Machine Learning.
 
 ```
 [
-	[
+    [
         {
 			"role": "system",
 			"content": "Your name is John.\nUser's username is 'Rabbit'"
@@ -32,7 +32,7 @@ Azuki JSON Format is Custom JSON Format for LLM / Machine Learning.
 			"role": "assistant",
 			"content": "There is Python Code:\n```python\ndef fibonacci(n):\n   if n <= 0:\n        return \"Invalid input\"  elif n == 1 or n == 2:\n        return 1\n    else:\n       a, b = 1, 1\n       for _ in range(3, n+1):\n         a, b = b, a + b\n        return b"
 		}
-	],
+    ],
     [
 		{
 			"role": "user",
@@ -42,7 +42,7 @@ Azuki JSON Format is Custom JSON Format for LLM / Machine Learning.
 			"role": "assistant",
 			"content": "Result: 2"
 		}
-	],
+    ],
     [
         {
 			"role": "system",
@@ -56,7 +56,7 @@ Azuki JSON Format is Custom JSON Format for LLM / Machine Learning.
 			"role": "assistant",
 			"content": "Result: 3"
 		}
-	]
+    ]
 ]
 ```
 
