@@ -68,29 +68,29 @@ Azuki JSON Format is Custom JSON Format for LLM / Machine Learning.
 	[
 		{
 			"role": "user",
-      "type": "text",
+			"type": "text",
 			"content": "Hello"
 		},
 		{
 			"role": "assistant",
-      "type": "text",
+			"type": "text",
 			"content": "Hello, How can I help you today?"
 		}
 	],
 	[
 		{
 			"role": "user",
-      "type": "text",
+			"type": "text",
 			"content": "What is This?"
 		},
 		{
 			"role": "user",
-      "type": "image",
-			"content": "Base64 Text"
+			"type": "image",
+			"content": "Base64 Text (png/jpeg)"
 		},
 		{
 			"role": "assistant",
-      "type": "text",
+			"type": "text",
 			"content": "This is Cat."
 		}
 	]
