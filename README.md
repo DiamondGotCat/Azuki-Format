@@ -60,7 +60,7 @@ Azuki JSON Format is Custom JSON Format for LLM / Machine Learning.
 ]
 ```
 
-## Azuki2 Format (AzukiF 2.0)
+## Azuki Format 2 (AzukiF 2.0)
 - You can use Image and Audio (Of course, also support Text.)
 
 ```
